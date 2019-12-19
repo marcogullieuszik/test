@@ -1,0 +1,16 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+
+# win/mac stuff
+.DS_Store
+
+
+# emacs backup files
+*~
+
+
+*.ipynb_checkpoints
+
+ignore_files/
